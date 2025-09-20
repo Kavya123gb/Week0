@@ -42,7 +42,7 @@ Below are the installation steps and verification commands.
 # Install Iverilog
 sudo apt-get install iverilog
 
-### 🧠 2. Yosys – RTL Synthesis Tool
+**### 🧠 2. Yosys – RTL Synthesis Tool**
 
 **Purpose:** Converts RTL code into gate-level representations.  
 
@@ -63,7 +63,7 @@ libboost-filesystem-dev zlib1g-dev
 make
 sudo make install
 
-### 📊 3. GTKWave – Waveform Viewer
+**### 📊 3. GTKWave – Waveform Viewer**
 
 **Purpose:** Analyzes and visualizes simulation waveforms for debugging.  
 
@@ -71,15 +71,15 @@ sudo make install
 sudo apt update
 sudo apt install gtkwave
 
-### ⚡ 4. Ngspice – Circuit Simulator
-
+**### ⚡ 4. Ngspice – Circuit Simulator
+**
 **Purpose:** Performs analog and mixed-signal circuit simulation.  
 
 ```bash
 sudo apt update
 sudo apt install ngspice
 
-### 🎨 5. Magic VLSI – Layout Tool
+**### 🎨 5. Magic VLSI – Layout Tool**
 
 **Purpose:** Creates, edits, and analyzes VLSI layouts with DRC capabilities.  
 
