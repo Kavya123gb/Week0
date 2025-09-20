@@ -1,8 +1,11 @@
-🚀 Week 0: VLSI System Design (VSD) Program Foundation & Tool Setup
+🚀# Week 0: VLSI System Design (VSD) Program Foundation & Tool Setup
+📌 VLSI Week 0 Status
+
 Welcome to my VLSI System Design (VSD) Program repository!
 This week was all about setting up the development environment and installing the essential open-source tools that will be used throughout the program. The goal was to create a reliable and efficient workspace for synthesis, simulation, and design tasks.
 
-🎯 System and Virtual Machine Configuration
+🎯 #System and Virtual Machine Configuration
+
 Specification 💻	Details 📋
 Operating System 🐧	Ubuntu 20.04+
 RAM 💾	6GB
@@ -11,7 +14,7 @@ vCPUs ⚡	4
 
 💡 Pro Tip: This setup ensures smooth handling of toolchains and simulations.
 
-⚙️ Tool Installation & Verification
+⚙️ #Tool Installation & Verification
 
 The following open-source tools were installed for RTL synthesis, simulation, circuit analysis, and layout design:
 
