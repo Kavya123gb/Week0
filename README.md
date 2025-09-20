@@ -1,6 +1,7 @@
 🚀 **Week 0: VLSI System Design (VSD) Program Foundation & Tool Setup**
 
 📌 VLSI Week 0 Status
+
 Welcome to my VLSI System Design (VSD) Program repository!
 This week was all about setting up the development environment and installing the essential open-source tools that will be used throughout the program. The goal was to create a reliable and efficient workspace for synthesis, simulation, and design tasks.
 
