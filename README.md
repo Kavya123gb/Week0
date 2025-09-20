@@ -50,7 +50,8 @@ $ sudo apt-get install build-essential clang bison flex \
     libboost-python-dev libboost-filesystem-dev zlib1g-dev
 $ make 
 $ sudo make install
-📟 2. Iverilog – Verilog Simulator
+
+#📟 2. Iverilog – Verilog Simulator
 ==================================
 
 **Purpose:** Compiles and simulates Verilog designs for functional verification.
@@ -59,7 +60,7 @@ $ sudo make install
 
 ```bash
 $ sudo apt-get install iverilog
-📊 3. GTKWave – Waveform Viewer
+#📊 3. GTKWave – Waveform Viewer
 ===============================
 
 **Purpose:** Analyzes and visualizes simulation waveforms for debugging.
