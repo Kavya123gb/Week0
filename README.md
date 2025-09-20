@@ -1,4 +1,4 @@
-🚀** Week 0: VLSI System Design (VSD) Program Foundation & Tool Setup**
+🚀**Week 0: VLSI System Design (VSD) Program Foundation & Tool Setup**
 📌 VLSI Week 0 Status
 
 Welcome to my VLSI System Design (VSD) Program repository!
@@ -14,7 +14,7 @@ vCPUs ⚡	4
 
 💡 Pro Tip: This setup ensures smooth handling of toolchains and simulations.
 
-⚙️** Tool Installation & Verification**
+⚙️**Tool Installation & Verification**
 
 The following open-source tools were installed for RTL synthesis, simulation, circuit analysis, and layout design:
 
