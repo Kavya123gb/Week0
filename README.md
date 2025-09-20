@@ -109,3 +109,5 @@ sudo make install
 | 📊 GTKWave | ✅ Complete | Waveform Analysis |
 | ⚡ Ngspice | ✅ Complete | Circuit Simulation |
 | 🎨 Magic VLSI | ✅ Complete | Layout Design |
+
+
