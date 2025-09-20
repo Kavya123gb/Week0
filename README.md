@@ -42,7 +42,7 @@ Below are the installation steps and verification commands.
 # Install Iverilog
 sudo apt-get install iverilog
 
-## 2. Yosys – RTL Synthesis Tool
+# 2. Yosys – RTL Synthesis Tool
 
 **Purpose:** Converts RTL code into gate-level representations.  
 
